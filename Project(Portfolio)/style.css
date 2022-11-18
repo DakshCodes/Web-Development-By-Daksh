@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.info{
+    background-image: url("Looping Gif of space - Imgur.gif");
+    border-top: 15px rgb(61 0 0);
+    border-bottom: 15px rgb(147 0 0);
+    border-left: 10px rgb(22 133 133);
+    border-right: 10px rgb(107, 232, 232);
+    border-style: outset;
+    font-family: Rockwell;
+    
+}
+#information{
+    color: rgb(160 255 151);
+}
