@@ -1,0 +1,61 @@
+*{
+    margin: 0px;
+    text-align: center;
+
+    
+}
+.top-container{
+    background-color:#F5EFE6;
+    padding: 20px;
+    height: 705px;
+    font-family:Sacramento;
+    color:  #66BFBF;
+
+}
+.webdev-container{
+    width: 37%;
+}
+.WebDev{
+    width: 25%;
+}
+.aiml-container{
+    width: 37%;
+}
+.AiMl{
+    width: 25%;
+}
+
+.profile img{
+    height: 210px
+}
+.profile{
+    padding: 30px;
+}
+
+.bottom-cloud{
+    position: absolute;
+    left: 455px;
+    top: 205px;
+    height: 65px;
+}
+.top-cloud{
+    position: absolute;
+    top: 52px;
+    left: 900px;
+    height: 65px;
+}
+.mountain{
+    position: absolute;
+    left: 342px;
+    top: 197px;
+    height: 548px;
+}
+#name{
+    position: relative;
+    top: 111px;
+    font-size: 52px;
+}
+#name-2{
+    position: relative;
+    top: 121px;
+}
