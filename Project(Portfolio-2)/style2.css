@@ -1,0 +1,144 @@
+*{
+    margin: 0px;
+    text-align: center;
+    
+}
+.top-container{
+    background-color:#F5EFE6;
+    padding: 20px;
+    height: 705px;
+    font-family:Sacramento;
+    color:  #66BFBF;
+
+}
+.webdev-container{
+    width: 37%;
+    border: 1px solid #222424;
+    box-shadow: 1px 2px 3px 2px;
+}
+
+
+.WebDev{
+    width: 25%;
+
+}
+.aiml-container{
+    width: 37%;
+    border: 1px solid #111313;
+    box-shadow: 1px 2px 3px 2px;
+}
+.AiMl{
+    width: 25%;
+    
+}
+
+#skill-info h3{
+    position: relative;
+    right: 488px;
+    font-size: 17px;
+
+}
+#skill-info p{
+    position: relative;
+    margin: 27px;
+    border: 2px groove #863A6F;
+    position: relative;
+    font-family: monospace;
+    font-size: 17px;
+    right: 780px;
+    bottom: 47px;
+    width: 217px;
+    background-color: #d4e4ff;
+    border-left-width: 20px;
+    border-right-width: 20px;
+
+}
+#skill-info2 h3{
+    position: relative;
+    left: 1243px;
+}
+#skill-info2 p{
+    position: relative;
+    left: 716px;
+    margin:36px;
+    border: 2px groove #863A6F;
+    position: relative;
+    font-family: monospace;
+    
+    bottom: 57px;
+    font-size: 17px;
+    width: 217px;
+    background-color: #d4e4ff;
+    border-left-width: 20px;
+    border-right-width: 20px;
+}
+
+.profile img{
+    height: 210px
+}
+.profile{
+    padding: 10px;
+    font-family: monospace;
+    line-height: 2;
+    font-size: 17px;
+    color: #ff9245;
+    background-image: url("Looping\ Gif\ of\ space\ -\ Imgur.gif");
+}
+
+.middle-container span{
+    /* background-image: url("Looping\ Gif\ of\ space\ -\ Imgur.gif"); */
+    border: 4px groove #61c217;
+    border-left-width: 8px;
+    border-right-width: 8px;
+    padding: 1px;
+    font-family: cursive;
+    line-height: 2;
+}
+.middle-container h3{
+    border:2px groove #863A6F;
+    position: relative;
+    font-family: monospace;
+    left: -260px;
+    width: 217px;
+    background-color: #d4e4ff;
+    border-left-width: 20px;
+    border-right-width: 20px;
+
+}
+table{
+    background-color: #3b3251;
+    width: 100%;
+   padding:  6px;
+}
+
+.bottom-cloud{
+    position: absolute;
+    left: 455px;
+    top: 205px;
+    height: 65px;
+}
+.top-cloud{
+    position: absolute;
+    top: 52px;
+    left: 900px;
+    height: 65px;
+}
+.mountain{
+    position: absolute;
+    left: 342px;
+    top: 197px;
+    height: 548px;
+}
+#name{
+    position: relative;
+    top: 111px;
+    font-size: 52px;
+}
+#name-2{
+    position: relative;
+    top: 121px;
+    font-size: 34px;
+}
+
+
+
